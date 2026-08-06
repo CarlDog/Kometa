@@ -157,3 +157,6 @@ dmypy.json
 ._*
 .worktrees/
 dictionary.dic
+
+# Local agent state
+.serena/
